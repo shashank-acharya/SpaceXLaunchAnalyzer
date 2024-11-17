@@ -29,6 +29,7 @@ This is a Dialog based C++ MFC project which fetches data from publicly hosted s
       * In Visual Studio, build all projects by selecting Build → Build Solution (or press Ctrl+Shift+B).
 4. Verify Build Output.
       * Executable files will be generated in the output directory based on the build configuration (e.g., Debug or Release).
+
         ![image](https://github.com/user-attachments/assets/4605e925-98fb-47a8-8e75-2be2cea473a2)
 5. Run Tests
       * Ensure all tests pass by running them from the Test Explorer in Visual Studio.
