@@ -10,7 +10,7 @@ This is a project which fetches data from publicly hosted server and processes d
 ## C++ Project
 
 ### Overview
-This is a Dialog based C++ MFC project which fetches data from publicly hosted server and manually processes the JSON data (without ThirdParty component). Because of that it is tightly coupled with the data. It shows the information about 
+This is a Dialog based C++ MFC project which fetches data from publicly hosted server and manually processes the JSON data (without ThirdParty component). Because of that it is tightly coupled with the JSON data. It shows the information about 
 
 ### Features
 - Retrieves launch data using HTTP requests.
@@ -21,5 +21,6 @@ This is a Dialog based C++ MFC project which fetches data from publicly hosted s
 1. Clone the repository:
    ```bash
    git clone https://github.com/shashank-acharya/SpaceXLaunchAnalyzer.git
-   cd SpaceXLaunchAnalyzer
-
+   cd SpaceXLaunchAnalyzer\SpaceX_Launch_Analyzer_In_CPP\SpaceXLauncherAnalyzer
+2. Open SpaceXLauncherAnalyzer.sln in Visual Studio
+3. Build all projects. Executables are generating in a folder as per build configuration. Ensure that all tests are passed.
