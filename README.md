@@ -41,9 +41,9 @@ This is a Dialog based C++ MFC project which fetches data from publicly hosted s
 
 ### Overview
 A Python-based project to fetch, process, and analyze SpaceX launch data from their open API.This project provides a tool to analyze SpaceX's historical launch data. It fetches data from SpaceX's public API (https://github.com/r-spacex/SpaceX-API), processes the information, and outputs:
-1.Launch counts by year.
-2.Launch counts by launch site.
-3.Detailed launch information.
+1. Launch counts by year.
+2. Launch counts by launch site.
+3. Detailed launch information.
 
 ### Features
 1. Fetches live data from SpaceX's public API.
