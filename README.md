@@ -22,8 +22,19 @@ This is a Dialog based C++ MFC project which fetches data from publicly hosted s
    ```bash
    git clone https://github.com/shashank-acharya/SpaceXLaunchAnalyzer.git
    cd SpaceXLaunchAnalyzer\SpaceX_Launch_Analyzer_In_CPP\SpaceXLauncherAnalyzer
-2. Open SpaceXLauncherAnalyzer.sln in Visual Studio
-3. Build all projects. Executables are generating in a folder as per build configuration. Ensure that all tests are passed.
+2. Open the Project in Visual Studio.
+      * Navigate to the SpaceXLauncherAnalyzer folder.
+      * Open the solution file SpaceXLauncherAnalyzer.sln in Visual Studio.
+3. Build the Solution.
+      * In Visual Studio, build all projects by selecting Build → Build Solution (or press Ctrl+Shift+B).
+4. Verify Build Output.
+      * Executable files will be generated in the output directory based on the build configuration (e.g., Debug or Release).
+        ![image](https://github.com/user-attachments/assets/4605e925-98fb-47a8-8e75-2be2cea473a2)
+5. Run Tests
+      * Ensure all tests pass by running them from the Test Explorer in Visual Studio.
+        ![image](https://github.com/user-attachments/assets/29786046-a030-42dc-b53e-ef5af324ce81)
+
+
 
 ## Python project
 
