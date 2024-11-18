@@ -14,7 +14,7 @@ Both implementations work independently but achieve the same functionality: anal
 ## C++ Project
 
 ### Overview
-This is a Dialog based C++ MFC project which fetches data from publicly hosted server and manually processes the JSON data (without ThirdParty component). Because of that it is tightly coupled with the JSON data. It shows the information about 
+This is a Dialog based C++ MFC project which fetches data from publicly hosted server and manually processes the JSON data (without ThirdParty component). Because of that it is tightly coupled with the JSON data. It shows the information about "Launches per year" and "Launches per Launch Site"
 
 ### Features
 - Retrieves launch data using HTTP requests.
