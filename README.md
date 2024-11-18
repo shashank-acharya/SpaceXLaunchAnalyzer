@@ -39,7 +39,8 @@ This is a Dialog based C++ MFC project which fetches data from publicly hosted s
       * Ensure all tests pass by running them from the Test Explorer in Visual Studio.
         ![image](https://github.com/user-attachments/assets/29786046-a030-42dc-b53e-ef5af324ce81)
 
-
+#### Note
+Current implementation and testing done on Windows 10(x86)
 
 ## Python project
 
