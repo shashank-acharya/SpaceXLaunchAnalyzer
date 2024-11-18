@@ -15,7 +15,7 @@ This is a Dialog based C++ MFC project which fetches data from publicly hosted s
 ### Features
 - Retrieves launch data using HTTP requests.
 - Parses and processes the retrieved JSON data for further analysis.
-- Stores processed data in a structured format.
+- Shows processed data in a structured format.
 
 ### How to Build and Run
 1. Clone the repository:
