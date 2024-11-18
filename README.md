@@ -1,6 +1,10 @@
 # SpaceXLaunchAnalyzer
-This is a project which fetches data from publicly hosted server and processes data to produce a result which can answer a specific query. This repository contains two projects, one written in C++ and the other in Python, both works same to analyze SpaceX launches.
+This project fetches data from a publicly hosted server, processes it, and generates results that answer specific queries about SpaceX launches.
 
+The repository includes two implementations:
+1. C++ Project: A Dialog based application for analyzing SpaceX launches.
+2. Python Project: A user-friendly and flexible implementation that performs the same analysis as the C++ version.
+Both implementations work independently but achieve the same functionality: analyzing SpaceX launches and answering predefined queries.
 ## Table of Contents
 - [C++ Project](#cpp-project)
 - [Python Project](#python-project)
